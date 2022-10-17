@@ -1,0 +1,59 @@
+.iraWhat {
+  padding: 76px 0 76px 0;
+}
+
+.iraWhat-heading {
+  font-family: 'Lato';
+  margin: 0;
+  margin-bottom: 64px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #0E133A;
+}
+
+.iraWhat-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+.iraWhat-contHead {
+  font-family: 'Lato';
+  margin: 0;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #0E133A;
+}
+
+.iraWhat-aboutText {
+  font-family: 'Lato';
+  margin: 0 0 20px 0;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #5B5D6D;
+}
+
+.iraWhat-aboutLink {
+  font-family: 'Lato';
+  margin: 0;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #1F33D8;
+}
+
+.iraWhat-aboutIcon {
+  margin-left: 16px;
+}
+
+.iraWhat-imgContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,124 @@
+.improvement-total {
+  padding: 40px 0 102px 0;
+  background-color: #001D31;
+  border: 1px solid #36434E;
+  border-radius: 8px;
+}
+
+.total-heading {
+  font-family: 'Lato';
+  margin: 0 0 80px 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #FEFEFF;
+}
+
+.total-table {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.table-heading {
+  font-family: 'Inter';
+  margin: 0 0 24px 0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+.table-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.table-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 28px;
+}
+
+.table-itemText {
+  font-family: 'Inter';
+  margin: 0 0 0 16px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+}
+
+.improvement-list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding: 100px 0 120px 0;
+}
+
+.improvement-item {
+  width: 329px;
+  padding: 40px 0 40px 0;
+  background-color: #1F33D8;
+  border-radius: 15px;
+}
+
+.item-heading {
+  font-family: 'Lato';
+  margin: 0 40px 24px 40px;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 62px;
+  color: #FFFFFF;
+}
+
+.item-text {
+  font-family: 'Lato';
+  margin: 0 40px 72px 40px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.item-link {
+  font-family: 'Lato';
+  padding: 16px 56px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #0E133A;
+  background-color: #FFD456;
+  border-radius: 0px 50px 50px 0px;
+}
+
+.item-textDev {
+  margin-bottom: 24px;
+}
+
+.item-img{
+  margin: 0 0 24px 40px;
+}
+
+.improvement-itemDev {
+  width: 430px;
+}
+
+.improvement-itemBecome {
+  width: 361px;
+  background-color: #FFD456;
+}
+
+.item-headingBecome, .item-textBecome {
+  color: #0E133A;
+}
+
+.item-linkBecome {
+  background-color: #1F33D8;
+  color: #ffffff;
+}

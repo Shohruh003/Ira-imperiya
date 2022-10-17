@@ -1,0 +1,23 @@
+.avlod {
+  padding: 72px 0 72px 0;
+}
+
+.avlod-heading {
+  font-family: 'Lato';
+  width: 850px;
+  margin: 0 auto 72px auto;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #000000;
+}
+
+li {
+  font-family: 'Lato';
+  margin-bottom: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+}

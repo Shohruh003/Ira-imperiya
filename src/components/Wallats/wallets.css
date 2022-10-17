@@ -1,0 +1,113 @@
+.wallets {
+  padding: 76px 0 76px 0;
+}
+
+.wallets-heading {
+  font-family: 'Lato';
+  margin: 0 0 80px 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #0E133A;
+}
+
+.wallets-list  {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.wallets-item {
+  width: 373px;
+  height: 462px;
+  padding: 40px;
+  background-color: #1F33D8;
+  border-radius: 15px;
+}
+
+.wallets-itemHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.wallets-itemLogo {
+  width: 48px;
+  height: 48px;
+}
+
+.wallets-itemHeading {
+  font-family: 'Lato';
+  margin: 0 0 0 12px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+}
+
+.wallets-itemText {
+  font-family: 'Lato';
+  margin: 0 0 31px 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.wallets-LinkDiv {
+  display: flex;
+  align-items: center;
+  margin-bottom: 70px;
+}
+
+.wallets-itemLink {
+  margin-right: 20px;
+}
+
+.wallets-link {  
+  font-family: 'Lato';
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.wallets-linkIcon {
+  margin-left: 8px;
+}
+
+.wallets-itemBlack {
+  color: #0E133A;
+  background-color:#FFD456;
+  padding: 0;
+}
+
+.wallets-itemHeadingBlack, .wallets-itemTextBlack {
+  color: #0E133A;
+} 
+
+.wallets-itemTextBlack {
+  padding: 0 40px 0 40px;
+}
+
+.wallets-LinkDivBlack {
+  padding: 0 40px 0 40px;
+}
+
+.wallets-linkBlack {
+  display: block;
+  width: 250px;
+  padding: 16px 0px 16px 60px;
+  background-color: #1F33D8;
+  border-radius: 0px 50px 50px 0px;
+  margin: 0;
+  margin-top: 100px;
+}
+
+.wallets-itemHeaderBlack {
+  padding: 40px 40px 0 40px;
+}

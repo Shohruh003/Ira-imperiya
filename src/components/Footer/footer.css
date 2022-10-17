@@ -1,0 +1,90 @@
+.footer {
+  padding: 60px 0 32px 0;
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-logo {
+  margin-bottom: 20px;
+}
+
+.contact-list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.contact-link {
+  font-family: 'Lato';
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  margin-bottom: 7px;
+  padding-bottom: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #0E133A;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+.contact-link:active {
+  color: blue;
+}
+
+.contact-number {
+  margin-left: 12px;
+}
+
+.footer-pages, .footer-learn, .footer-support, .footer-about {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.pages-link, .learn-link, .support-link, .about-link {
+  display: block;
+  font-family: 'Lato';
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #5B5D6D;
+}
+
+.pages-linkHeader, .learn-linkHeader, .support-linkHeader, .about-linkHeader {
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 700;
+  color: #0E133A;
+}
+
+.pages-link:hover, .learn-link:hover, .support-link:hover, .about-link:hover {
+  text-decoration: underline;
+}
+
+.pages-link:active, .learn-link:active, .support-link:active, .about-link:active {
+  color: blue;
+}
+
+.footer-hr {
+  border: 0.5px solid rgba(0, 0, 0, 0.4);
+}
+
+.footer-networks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 32px;
+}
+
+.networks-link {
+  margin-left: 12px;
+}

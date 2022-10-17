@@ -1,0 +1,29 @@
+.result {
+  padding: 40px;
+  background-color: #1F33D8;
+  border-bottom: 11px solid #FFD456;
+}
+
+.result-list  {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.result-title {
+  font-family: 'Lato';
+  display: block;
+  margin-bottom: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
+
+.result-quatity {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FFFFFF;
+}

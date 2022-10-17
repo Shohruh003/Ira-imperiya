@@ -1,0 +1,54 @@
+.guide {
+  padding: 76px 0 109px 0;
+}
+
+.guide-heading {
+  font-family: 'Lato';
+  margin: 0 0 109px 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #0E133A;
+}
+
+.guide-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.guide-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 120px;
+}
+
+.guide-itemImg {
+  border-radius: 50%;
+  margin-right: 28px;
+  background-color: gold;
+}
+
+.guide-itemContent {
+  width: 260px;
+}
+
+.guide-itemHeading {
+  font-family: 'Lato';
+  margin: 0 0 20px 0;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #0E133A;
+}
+
+.guide-itemText {
+  font-family: 'Lato';
+  margin: 0;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #5B5D6D;
+}

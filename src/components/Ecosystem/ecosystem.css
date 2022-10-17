@@ -1,0 +1,103 @@
+.ecosystem {
+  padding: 100px 0 150px 0;
+  background-color: #F4F5FA;
+  background-image: url("../../Images/bg-img.png");
+  background-repeat: no-repeat;
+  background-size: 206px 64px;
+  background-position: 940px 630px ;
+}
+
+.ecosystem-inner {
+  display: flex;
+  align-items: center;
+}
+
+.ecosystem-content {
+  width: 650px;
+}
+
+.ecosystem-about {
+  font-family: 'Lato';
+  margin: 0;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26px;
+  color: #0E133A;
+}
+
+.ecosystem-span {
+  color: blue;
+}
+
+.ecosystem-heading {
+  font-family: 'Lato';
+  margin: 0;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 100px;
+  color: #0E133A;
+}
+
+.ecosystem-text {
+  font-family: 'Lato';
+  margin: 0;
+  margin-bottom: 72px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #5B5D6D;
+}
+
+.ecosystem-getBtn {
+  font-family: 'Lato';
+  padding: 16px 56px;
+  margin-right: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #FFFFFF;
+  background-color: #1F33D8;
+  border-radius: 38px;
+  border: none;
+  cursor: pointer;
+}
+
+.ecosystem-getBtn:hover {
+  background-color: #5c69d9;
+}
+
+.ecosystem-getBtn:active {
+  background-color: rgba(31, 51, 216, 0.15);
+  color: #0E133A;
+}
+
+.ecosystem-aboutBtn {
+  font-family: 'Lato';
+  padding: 16px 56px;
+  margin-right: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #0E133A;
+  background-color: rgba(31, 51, 216, 0.15);
+  border-radius: 38px;
+  border: none;
+  cursor: pointer;
+}
+
+.ecosystem-aboutBtn:hover {
+  background-color: rgb(170, 175, 217);
+}
+
+.ecosystem-aboutBtn:active {
+  background-color:#1F33D8;
+  color: #FFFFFF;
+}
+
+.ecosystem-img {
+  width: 377px;
+  height: 377px;
+  margin-left: 71px;
+}
