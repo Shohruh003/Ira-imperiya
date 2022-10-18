@@ -1,6 +1,10 @@
 .header {
+  position: fixed;
+  right: 0;
+  left: 0;
   padding: 40px 0 40px 0;
   background-color: #F4F5FA;
+  
 }
 
 .header-inner {
@@ -54,4 +58,10 @@ nav > ul {
   border: none;
   background-color: #F4F5FA;
   cursor: pointer;
+}
+
+.select{
+  border: none;
+  background-color: #F4F5FA;
+  width: 15px;
 }

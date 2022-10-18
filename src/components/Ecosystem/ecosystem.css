@@ -4,7 +4,7 @@
   background-image: url("../../Images/bg-img.png");
   background-repeat: no-repeat;
   background-size: 206px 64px;
-  background-position: 940px 630px ;
+  background-position: 970px 630px ;
 }
 
 .ecosystem-inner {
@@ -13,7 +13,7 @@
 }
 
 .ecosystem-content {
-  width: 650px;
+  width: 670px;
 }
 
 .ecosystem-about {

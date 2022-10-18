@@ -4,7 +4,7 @@
   background-image: url("../../Images/bg-img.png");
   background-repeat: no-repeat;
   background-size: 206px 64px;
-  background-position: 940px 730px ;
+  background-position: 990px 660px ;
 }
 
 .ethereum-inner {
@@ -13,7 +13,7 @@
 }
 
 .ethereum-content {
-  width: 650px;
+  width: 690px;
 }
 
 .ethereum-about {
